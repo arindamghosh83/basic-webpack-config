@@ -32,6 +32,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^23.5.0",
     "jest-enzyme": "^6.0.3",
+    "react-hot-loader": "^4.0.0",
     "style-loader": "^0.22.1",
     "webpack": "^4.17.1",
     "webpack-cli": "^3.1.0",
